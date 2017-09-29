@@ -1,0 +1,7 @@
+client id:
+
+8755634e94b4594
+
+client secret:
+
+a86867900539b5f3440be8cfc09bf1c61832baaf
