@@ -51,3 +51,9 @@ buck-out/
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
+
+# Realm
+
+realm-object-server/
+default.realm
+default.realm.lock
